@@ -1,10 +1,10 @@
-# HR Analytics Dashboard — Kinetrexa Data Analytics Internship
+# HR Analytics Dashboard —  Data Analytics Internship
 
 ## Project Overview
 An interactive HR analytics solution built with Python and Power BI to analyze employee attrition, workforce characteristics, salary patterns, job roles, overtime, satisfaction, and business travel.
 
 ## Internship Task
-This project addresses **Task 3: HR Analytics Dashboard** from the Kinetrexa Software Private Limited Data Analytics Internship assignment.
+ HR Analytics Dashboard** from the Kinetrexa Software Private Limited Data Analytics Internship assignment.
 
 Required deliverables include a public GitHub repository, source code/SQL scripts, Power BI/Tableau dashboard, README documentation, and HR Analytics Report (PDF).
 
